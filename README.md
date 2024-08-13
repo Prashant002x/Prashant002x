@@ -33,10 +33,6 @@ I'm a passionate Full Stack Developer with a strong foundation in the MERN stack
 ## 🤝 Let's Connect
 I'm always open to collaborating on exciting projects and learning new things. Feel free to reach out to me via email at [prashantsharma6002002@gmail.com](mailto:prashantsharma6002002@gmail.com) 
 
-## 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
----
 
 <!---
 Prashant002x/Prashant002x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
