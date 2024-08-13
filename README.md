@@ -2,7 +2,7 @@ Certainly! Here's an updated version of your README with additional icons to mak
 
 ---
 
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Prashant Sharma
 
 ## 🌟 About Me
 I'm a passionate Full Stack Developer with a strong foundation in the MERN stack and a growing expertise in **Appwrite** and **Firebase**. I’m currently diving into the world of **Machine Learning** and **Deep Learning**. On top of that, I’m exploring **Next.js** and **TypeScript** to broaden my skill set and keep up with the latest in tech!
